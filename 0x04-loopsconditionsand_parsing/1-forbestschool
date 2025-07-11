@@ -1,0 +1,15 @@
+# Clone your repo
+git clone https://github.com/<your-username>/system_engineering-devops
+cd system_engineering-devops
+
+# Create the directory
+mkdir 0x04-loopsconditionsand_parsing
+cd 0x04-loopsconditionsand_parsing
+
+# Add your script
+echo '#!/bin/bash' > 1-forbestschool
+
+# Commit and push
+git add .
+git commit -m "Add 1-forbestschool script"
+git push
